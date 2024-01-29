@@ -55,7 +55,7 @@ def testing_hidden_data(hidden_data: pd.DataFrame) -> list:
 ```
 
 
-# Expected Function that must be entered and run in the notebook (for SKLearn Pipeline to function)
+# Expected Functions that are required and must be entered/run in the notebook (for SKLearn Pipeline to function)
 ```python
 #Include Functions used in Pipeline
 def dropColumns(data, columns):
